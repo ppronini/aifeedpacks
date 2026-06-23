@@ -32,6 +32,10 @@ your-feedpack-name/
 - Add practical examples
 - No marketing fluff — just useful content
 
+## License
+
+By contributing, you agree that your work is released under the [WTFPL](LICENSE) — no restrictions, no attribution required, do whatever you want with it.
+
 ## Code of Conduct
 
 Be respectful and constructive.

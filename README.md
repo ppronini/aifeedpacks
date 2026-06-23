@@ -2,7 +2,7 @@
 
 **Reusable Markdown bundles for AI systems.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ---
@@ -81,4 +81,16 @@ Just as GitHub became the home of reusable source code, FeedPacks aims to become
 
 ## License
 
-[MIT](LICENSE)
+**WTFPL — Do What The Fuck You Want To Public License**
+
+All content in this repository — every FeedPack, every file, every commit — is released under the [WTFPL](LICENSE).
+
+You are free to:
+- Use it for any purpose, commercial or not
+- Modify it however you want
+- Redistribute it, with or without changes
+- Sell it, give it away, burn it, frame it on your wall
+
+**There are no restrictions.** No attribution required (though appreciated). No strings attached.
+
+> All contributions to this repository are accepted under the same WTFPL terms.
