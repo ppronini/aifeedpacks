@@ -39,6 +39,7 @@ A **FeedPack** is **not** a prompt. It is a reusable bundle of knowledge that gi
 | [Customer Interview](feedpacks/customer-interview/) | Research | Customer interview analysis framework |
 | [Meeting Analysis](feedpacks/meeting-analysis/) | Business | Meeting notes summarization and action items |
 | [Startup Landing Page](feedpacks/startup-landing-page/) | Marketing | Landing page copy and structure |
+| [PHP on Windows (XAMPP)](feedpacks/php-xampp-windows/) | Development | Complete guide for XAMPP-based PHP dev on Windows with Linux deployment |
 
 ## How to Use
 
