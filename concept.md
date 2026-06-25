@@ -25,6 +25,7 @@ AI FeedPacks provides ready-to-use bundles that users can download, copy, custom
 * Windsurf
 * GitHub Copilot
 * OpenWebUI
+* OpenWork
 * Local LLMs
 * AI Agents
 
@@ -242,7 +243,7 @@ AI FeedPacks is:
 * Customer Support
 * Education
 * Design
-* AI Agents
+* AI Agents — setup, configuration, and workflow automation for AI agent platforms
 
 ## Website Structure
 

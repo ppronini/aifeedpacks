@@ -34,6 +34,7 @@ A **FeedPack** is **not** a prompt. It is a reusable bundle of knowledge that gi
 | [Laravel Code Review](feedpacks/laravel-code-review/) | Development | Laravel-specific code review guidelines |
 | [API Design](feedpacks/api-design/) | Development | RESTful API design standards |
 | [Bug Triage](feedpacks/bug-triage/) | Development | Structured bug analysis and prioritization |
+| [OpenWork on Windows](feedpacks/openwork-windows/) | AI Agents | Complete setup guide for OpenWork AI agent on Windows 10/11 |
 | [PRD Creator](feedpacks/prd-creator/) | Product | Product requirements document generation |
 | [SEO Audit](feedpacks/seo-audit/) | Marketing | SEO analysis and recommendations |
 | [Customer Interview](feedpacks/customer-interview/) | Research | Customer interview analysis framework |
@@ -62,6 +63,7 @@ A **FeedPack** is **not** a prompt. It is a reusable bundle of knowledge that gi
 - **Research** — competitive analysis, interviews, data analysis
 - **Business** — SOPs, meetings, strategy
 - **DevOps** — deployment, CI/CD, infrastructure
+- **AI Agents** — setup, configuration, workflow automation
 
 ## Contribute
 
